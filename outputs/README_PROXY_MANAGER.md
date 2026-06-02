@@ -2,6 +2,8 @@
 
 Small local Xray launcher for macOS. It imports the working CDN VMess profile from V2Box's local database, starts local HTTP/SOCKS proxy ports, and configures `networksetup`.
 
+See the root `README.md` for the public project overview, app usage, import methods, and safety notes.
+
 ## Commands
 
 ```bash
